@@ -1,5 +1,6 @@
 [build]
-  command = "cd site & hugo"
+  base = "site"
+  command = "npm run build"
   publish = "dist"
 
 [context.deploy-preview]
