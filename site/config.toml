@@ -1,5 +1,5 @@
 baseurl = "http://example.org"
-title = "Mayans"
+title = "Ancient Mayan Civilisation"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,10 +7,9 @@ enableRobotsTXT = true
 disableRSS = true
 
 [params]
-  title = "Mayans"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
+  title = "Ancient Mayan Civilisation"
+  description = '<!--[-->Delve into the mysterious world of the Ancient Mayan Civilisation, as we showcase parts of their Government,Religion, Innovations, Economy, Arts and Society.<!--]-->'
+  logo = "fa-circle"
   copyright = "Untitled"
 
 [[params.social]]
@@ -37,11 +36,11 @@ disableRSS = true
 [languages.en]
 languageName = "English"
 weight = 1
-title = "Dimension"
+title = "Ancient Mayan Civilisation"
 
 [languages.de]
 languageName = "Deutsch"
 weight = 2
-title = "Dimension"
+title = "Pranay"
 description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'

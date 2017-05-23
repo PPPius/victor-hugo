@@ -1,12 +1,13 @@
 +++
 title = "Religion"
-weight = 2
+weight = 3
 draft = false
 
 +++
 
 <img src="images/Maya Sun God.jpg" alt="Maya Sun God" width="560">
 
+Above is a photo of a bust of an Ancient Maya Sun God Kinich Ahau
 Religion was very important to the Mayan Civilisations, just like all the other major ancient civilisations, in fact the beliefs of the Mayans were very similar to that of the Aztecs and Incas. 
 The Ancient Mayans were polytheists and each God was very important to them. In Maya mythology, Chac (sometimes spelled "Chaac") was the god of rain and thunder, and important as a fertility and agriculture god. 
 To the Mayans he was one of the most important God as they believed without him they would have no crops would not be fertile.

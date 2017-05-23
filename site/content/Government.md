@@ -1,12 +1,13 @@
 +++
 title = "Government"
-weight = 1
+weight = 2
 draft = false
 
 +++
 
 <img src="images/Chilam Balam.jpg" alt="Chilam Balam" width="560">
 
+Above is a photo of the Chilam Balam, much of what we know about the Government systems of the Mayans is derived from this book.
 The Ancient Mayans government system was a Hierarchical system.
 Each city state was to be ruled by one king, and around him were his councils who were chosen from a range of noble families. 
 The king was considered to be chosen by the gods and was considered to be the mediator between the gods and the people that lived in the civilisation. 
