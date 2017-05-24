@@ -1,0 +1,24 @@
+language: node_js
+node_js:
+    - "6.9.5"
+
+before_install:
+    - npm install -g hugo-cli
+
+before_script:
+    - git config --global user.name 'PPPius'
+    - git config --global user.email 'pranaypius19@gmail.com'
+
+script:
+    - cd site
+    - hugo
+
+after_success:
+    - mkdir .deploy
+    - cd .deploy
+    - git init
+    - git remote add origin $DEPLOY_REPO
+    - cp -r ../public/* .
+    - git add -A .
+    - git commit -m "Site updated."
+    - git push --force --quiet origin HEAD:gh-pages
