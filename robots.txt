@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pppius.github.io/victor-hugo//sitemap.xml
